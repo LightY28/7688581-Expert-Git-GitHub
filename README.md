@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 connaitre les bases de git, le devellopement web 
+connaitre les bases de git et github
 ```
 
 ### Installation
@@ -20,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-installer git, un editeur et chrome 
+installer git, un editeur comme vsCode et chrome 
 ```
 
 
@@ -38,6 +39,7 @@ Voici les étapes à suivre pour déployer en production :
 
 ```
 choisir un hebergeur en ligne
+choisir un hostinger
 ```
 
 ## Technologies :
